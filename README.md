@@ -1,3 +1,7 @@
+I have submitted all the assignments on the repo yesterday. But some how link with local repository was broken.
+That's why I have to add manually all the files. some files working data is not included because of this issue.
+I am trying to solve this issue and will make my remote repo synchronize with local repo.
+
 #1 This assignment is consist of 5 mini assignments in which :
 
 * 2 Assignments For Binary Classification
